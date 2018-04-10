@@ -1,7 +1,7 @@
 # Scholar Quiz - A Collabrative Project under Udacity Scholarship Programme
 ![banner](https://github.com/mohancm100/ScholarQuiz/blob/master/images/scholarquiz.png?raw=true)
 ## Disclaimer
-> This project is only for the students who participated in Udacity Scholarship Programme.
+> `This project is only for the students who participated in Udacity Scholarship Programme.`
 
 ## Breif Idea about Quiz App:
 A ***Scholar Quiz*** app for All the Quiz Competation Conducted in Udacity Scholarship. 
