@@ -1,5 +1,5 @@
 # Scholar Quiz - A Collabrative Project under Udacity Scholarship Programme
-![banner](https://github.com/mohancm100/ScholarQuiz/blob/master/images/scholarquiz.png?raw=true)
+![banner](https://github.com/mohancm100/ScholarQuiz/blob/master/images/banner1.png?raw=true)
 ## Disclaimer
 > `This project is only for the students who participated in Udacity Scholarship Programme.`
 
