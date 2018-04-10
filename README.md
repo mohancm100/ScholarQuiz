@@ -19,8 +19,6 @@ When the student click on quiz, it will navigate to third Screen, which will hav
 
 Moderator and scholar program handler will have access to add new quiz to the list. When a new quiz is inserted, subscriber will be notified through app.
 
-Supporting Concept for App : SQLite, CursorLoader, AsyncTask, JSON, Notification, Password Less Login, Database (MySql) and Hosting.
-
 ### Supporting Concepts for this Project:
 * SQLite
 * CursorLoader
