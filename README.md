@@ -28,4 +28,7 @@ Moderator and scholar program handler will have access to add new quiz to the li
 * Passwordless Login
 * Backend Services
 
+## Illustration
 
+ -A sample mockup for this project: (PDF attached)
+![pdf](link)
