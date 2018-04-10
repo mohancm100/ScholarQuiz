@@ -31,4 +31,4 @@ Moderator and scholar program handler will have access to add new quiz to the li
 ## Illustration
 
  -A sample mockup for this project: (PDF attached)
-![pdf](link)
+![pdf](https://github.com/mohancm100/ScholarQuiz/raw/master/scholarquiz_logic_and_screen.pdf)
